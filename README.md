@@ -12,12 +12,11 @@ communication: Meta (FB),Alphabet (GOOG),Netflix (NFLX
 We build a table using pandas to organize all the data . 
 
 **Step 2**: 
-Calculate the changes of each stock ,and create the standard deviation for each stock. - IDAN
+Calculate the changes of each stock ,and create the standard deviation for each stock.
 
 **Step 3**: 
 Pull the stock's price during the quarters of 2021 and check if the changes are in the standard deviation and how it affects its sector - Evgenia 
-Using numpy and matplotlib for showing the changes of each stock and the changes of each sector by quarters of 2021.  - Idan / Evgenia
-
+Using numpy and matplotlib for showing the changes of each stock and the changes of each sector by quarters of 2021.  
 **Step 4** :
 Insights for each sector  : according to the records was the sector affected significantly by the highest stocks or not? 
 Showing the connections between stocks 
